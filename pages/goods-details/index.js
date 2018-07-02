@@ -58,6 +58,9 @@ Page({
             },
             success: function (res) {
                 var selectSizeTemp = "";
+                if (!res.data.data) {
+                    return;
+                }
                 if (res.data.data.properties) {
                     for (var i = 0; i < res.data.data.properties.length; i++) {
                         selectSizeTemp = selectSizeTemp + " " + res.data.data.properties[i].name;

@@ -12,7 +12,7 @@
 .wxParse {
     margin: 0 5px;
     font-family: Helvetica, sans-serif;
-    font-size: 28 rpx;
+    font-size: 28rpx;
     color: #666;
     line-height: 1.8;
 }
@@ -175,13 +175,13 @@ view {
 }
 
 .wxParse-ul {
-    margin: 20 rpx 10 rpx;
+    margin: 20rpx 10rpx;
 }
 
 .wxParse-li, .wxParse-li-inner {
     display: flex;
     align-items: baseline;
-    margin: 10 rpx 0;
+    margin: 10rpx 0;
 }
 
 .wxParse-li-text {
@@ -200,17 +200,17 @@ view {
 
 .wxParse-li-square {
     display: inline-flex;
-    width: 10 rpx;
-    height: 10 rpx;
+    width: 10rpx;
+    height: 10rpx;
     background-color: #333;
     margin-right: 5px;
 }
 
 .wxParse-li-ring {
     display: inline-flex;
-    width: 10 rpx;
-    height: 10 rpx;
-    border: 2 rpx solid #333;
+    width: 10rpx;
+    height: 10rpx;
+    border: 2rpx solid #333;
     border-radius: 50%;
     background-color: #fff;
     margin-right: 5px;
@@ -258,7 +258,7 @@ view {
 .wxParse-td {
     flex: 1;
     padding: 5px;
-    font-size: 28 rpx;
+    font-size: 28rpx;
     border-left: 1px solid #e0e0e0;
     word-break: break-all;
 }

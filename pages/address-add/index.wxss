@@ -10,54 +10,54 @@ page {
 .form-box {
     width: 100%;
     background-color: #fff;
-    margin-top: 20 rpx;
+    margin-top: 20rpx;
 }
 
 .row-wrap {
-    width: 720 rpx;
-    height: 88 rpx;
-    line-height: 88 rpx;
-    margin-left: 30 rpx;
-    border-bottom: 1 rpx solid #eee;
+    width: 720rpx;
+    height: 88rpx;
+    line-height: 88rpx;
+    margin-left: 30rpx;
+    border-bottom: 1rpx solid #eee;
     display: flex;
-    font-size: 28 rpx;
+    font-size: 28rpx;
     /*justify-content: space-between;*/
 }
 
 .row-wrap .label {
-    width: 160 rpx;
+    width: 160rpx;
     color: #000
 }
 
 .row-wrap .label-right {
     flex: 1;
-    height: 88 rpx;
-    line-height: 88 rpx;
+    height: 88rpx;
+    line-height: 88rpx;
 }
 
 .row-wrap .label-right input {
     height: 100%;
-    font-size: 28 rpx;
-    padding-right: 30 rpx;
+    font-size: 28rpx;
+    padding-right: 30rpx;
 }
 
 .row-wrap .right-box {
-    margin-right: 30 rpx;
+    margin-right: 30rpx;
 }
 
 .arrow-right {
-    width: 15 rpx;
-    height: 24 rpx;
+    width: 15rpx;
+    height: 24rpx;
 }
 
 .save-btn,
 .cancel-btn {
-    width: 690 rpx;
-    height: 80 rpx;
-    line-height: 80 rpx;
+    width: 690rpx;
+    height: 80rpx;
+    line-height: 80rpx;
     text-align: center;
-    margin-top: 30 rpx;
-    border-radius: 6 rpx;
+    margin-top: 30rpx;
+    border-radius: 6rpx;
     box-sizing: border-box;
 }
 
@@ -73,29 +73,29 @@ button[type="default"] {
 
 .addr-details {
     height: auto;
-    padding: 30 rpx 0;
-    margin-left: 30 rpx;
-    border-bottom: 1 rpx solid #eee;
+    padding: 30rpx 0;
+    margin-left: 30rpx;
+    border-bottom: 1rpx solid #eee;
     display: flex;
-    font-size: 28 rpx;
+    font-size: 28rpx;
 }
 
 .addr-details .label {
     margin: auto 0 auto 0;
-    width: 160 rpx;
+    width: 160rpx;
     color: #000
 }
 
 .addr-details textarea {
     box-sizing: border-box;
-    width: 480 rpx;
+    width: 480rpx;
     overflow: scroll;
 }
 
 picker {
-    min-width: 20 rpx;
+    min-width: 20rpx;
     height: 100%;
-    margin-right: 20 rpx;
+    margin-right: 20rpx;
 }
 
 .hui {
